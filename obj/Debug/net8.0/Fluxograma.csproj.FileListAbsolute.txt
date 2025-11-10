@@ -1,0 +1,14 @@
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\bin\Debug\net8.0\Fluxograma.exe
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\bin\Debug\net8.0\Fluxograma.deps.json
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\bin\Debug\net8.0\Fluxograma.runtimeconfig.json
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\bin\Debug\net8.0\Fluxograma.dll
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\bin\Debug\net8.0\Fluxograma.pdb
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.dll
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\refint\Fluxograma.dll
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.pdb
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\Fluxograma.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\Gabriel\Fluxograma\obj\Debug\net8.0\ref\Fluxograma.dll
